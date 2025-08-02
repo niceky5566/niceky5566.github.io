@@ -6,10 +6,10 @@
 3) เรียกใช้ URL และใส่  parameter URL.exec ต่อท้าย
 
 <pre>
-https://semicon.github.io/app/?apps= [URL.exec webapps]
+https://niceky5566.github.io/app/?apps= [URL.exec webapps]
 </pre>
 ### example:
-https://semicon.github.io/app/?apps=https://script.google.com/macros/s/AKfycbzEYcTuj-nCd37T5fyE5nlG7QAm_0dn5GfYWrTX9l096pP5695gvPzHe91jaS2b6GD3Cg/exec
+https://niceky5566.github.io/app/?apps=https://script.google.com/macros/s/AKfycbzEYcTuj-nCd37T5fyE5nlG7QAm_0dn5GfYWrTX9l096pP5695gvPzHe91jaS2b6GD3Cg/exec
 ![image](https://github.com/user-attachments/assets/a05edb64-4238-4470-9a3f-7d60049df348)
 
 
@@ -48,4 +48,4 @@ https://semicon.github.io/app/?apps=https://script.google.com/macros/s/AKfycbzEY
 </pre>
 
 ### Code
-   https://raw.githubusercontent.com/semicon/app/refs/heads/main/index.html
+   https://raw.githubusercontent.com/niceky5566/app/refs/heads/main/index.html
